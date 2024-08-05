@@ -1,0 +1,51 @@
+Conteúdo
+Cabeçalho – Nome da escola, nome data turma, versão da página.
+Menu – Página inicial:
+Home direciona para -> Conteúdo sobre a escola e os integrantes da turma imagem da turma
+Disciplinas
+Nome da disciplina1 -> Conteúdo sobre a disciplina e curiosidade.
+Nome da disciplina2 -> Conteúdo sobre a disciplina e curiosidade.
+Nome da disciplina3 -> Conteúdo sobre a disciplina e curiosidade.
+Nome da disciplina4 -> Conteúdo sobre a disciplina e curiosidade.
+Nome da disciplina5 -> Conteúdo sobre a disciplina e curiosidade.
+Adicione imagens relacionada ao conteúdo
+Fontes de letras
+Leitura e Aprendizagem
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts
+Para utilizar fontes do google.
+https://fonts.google.com/
+Adicionando
+<style>
+@import
+url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:i
+tal,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+</style>
+Usando
+No arquivo css
+.roboto-thin { font-family: "Roboto", sans-serif; font-weight: 100; font-style: normal; }
+.roboto-light { font-family: "Roboto", sans-serif; font-weight: 300; font-style: normal; }
+.roboto-regular { font-family: "Roboto", sans-serif; font-weight: 400; font-style: normal; }
+Estrutura da página
+Leitura e aprendizagem:
+HTML
+https://developer.mozilla.org/en-US/docs/Glossary/HTML
+Html – tabela
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics
+Html – divisão de estrutura
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+Artigo flexbox
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+Artigo Img
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+Artigo Bordas dos elementos
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Borderradius_generator
+Artigo Margem
+https://developer.mozilla.org/enUS/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model#margin_area
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+Separe o CSS do arquivo html
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
